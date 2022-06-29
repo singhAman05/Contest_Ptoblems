@@ -4,6 +4,8 @@
 #include"bits/stdc++.h"
 using namespace std;
 int main(){
+
+    //Taking testcases input
    int t;cin>>t;
    while(t--){
       int x,y;cin>>x>>y;
